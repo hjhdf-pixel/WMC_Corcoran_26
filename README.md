@@ -7,3 +7,4 @@ Das ist mein Schul repository
 <p>heute haben wir uns opencode-telegram-bot angeschaut <p>
 <p>für den Commit brauche ich eine Message damit meine Kollegen wissen was ich geändert habe. Das heißt ich muss nicht immer Update READEME eingeben<p> 
 <p>hallo Herr Prof.<p>
+<p>hallo heute probiere ich den Auto Correct zum funktionieren zu bringen<p>
