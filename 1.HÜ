@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Über mich</title>
+
+</head>
+
+<body>
+
+    <header>
+
+        <h1>Über mich</h1>
+
+        <nav>
+            <a href="#ueber-mich">Über mich</a>
+            <a href="#hobby">Hobby</a>
+        </nav>
+
+    </header>
+
+    <main>
+
+        <article id="ueber-mich">
+
+            <h2>Über mich</h2>
+
+            <p>Ich heiße Max und besuche eine Schule in Österreich.</p>
+            <p>In meiner Freizeit beschäftige ich mich gerne mit Computern.</p>
+            <p>Ich interessiere mich außerdem für Sport und Technik.</p>
+
+            <h3>Meine Interessen</h3>
+
+            <ul>
+                <li>Computer</li>
+                <li>Sport</li>
+                <li>Technik</li>
+            </ul>
+
+        </article>
+
+        <aside id="hobby">
+
+            <h2>Mein Hobby</h2>
+            <p>Mein Hobby ist Gaming.</p>
+
+            <img src="hobby.jpg" alt="Eine Person beim Spielen eines Computerspiels">
+
+        </aside>
+
+    </main>
+
+</body>
+
+</html>
