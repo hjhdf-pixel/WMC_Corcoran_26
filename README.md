@@ -9,3 +9,9 @@ Das ist mein Schul repository
 <p>hallo Herr Prof.<p>
 <p>hallo heute probiere ich den Auto Correct zum funktionieren zu bringen<p>
 <p>die HÜ ist im 3caif Tab unter dem Datum des heutigen Tages zu finden<p> <p>wenn die HÜ fortlaufend ist ist sie im Tab der vorherigen Woche zu finden<p>
+
+<p>mit winget kann ich mir tausende Apps installieren<p>
+<p>Bsp.:• Installieren: winget install <App-Name> (installiert Programme ohne lästiges Klicken durch Installationsassistenten).
+• Suchen: winget search <Suchbegriff> (findet die genaue ID oder den Namen einer Software).
+• Aktualisieren: winget upgrade --all (aktualisiert veraltete Programme auf den neuesten Stand).
+• Deinstallieren: winget uninstall <App-Name> (entfernt Software sauber vom System).</p>
